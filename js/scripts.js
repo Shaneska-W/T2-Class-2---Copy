@@ -10,3 +10,4 @@ let dog= "Hunter", age = 15, subject ="development";
 function myFunction(){
 alert("How are you?");
 }
+
